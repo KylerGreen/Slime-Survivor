@@ -1,0 +1,10 @@
+res://survivorsgame.tscn
+res://gun.gd
+res://player.gd
+res://slime.tscn
+res://Global.gd
+res://upgrade.tscn
+res://upgrade.gd
+res://gun.tscn
+res://survivorsgame.gd
+res://slime.gd
